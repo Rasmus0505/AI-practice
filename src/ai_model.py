@@ -9,7 +9,7 @@ def get_related_knowledge(knowledge_point):
     prompt = f"请整理以下知识点的相关知识，并用简洁的语言描述：{knowledge_point}"
     try:
         response = openai.Completion.create(
-            engine="text-davinci-003",
+            engine="gpt-4o-mini",
             prompt=prompt,
             max_tokens=200,
             temperature=0.7
