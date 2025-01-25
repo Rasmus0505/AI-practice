@@ -1,0 +1,36 @@
+{
+  "topic": "AI编程学习",
+  "start_time": "2025-01-24T22:13:18.122876",
+  "cards": [
+    {
+      "id": 1,
+      "scores": [],
+      "average_score": 3.0,
+      "last_reviewed": "2025-01-24T22:13:45.930689"
+    },
+    {
+      "id": 2,
+      "scores": [],
+      "average_score": 3.0,
+      "last_reviewed": "2025-01-24T22:14:04.292104"
+    },
+    {
+      "id": 3,
+      "scores": [],
+      "average_score": 3.0,
+      "last_reviewed": "2025-01-24T22:14:18.445000"
+    },
+    {
+      "id": 4,
+      "scores": [],
+      "average_score": 3.0,
+      "last_reviewed": "2025-01-24T22:14:22.841905"
+    },
+    {
+      "id": 5,
+      "scores": [],
+      "average_score": 3.0,
+      "last_reviewed": "2025-01-24T22:14:26.199205"
+    }
+  ]
+}
